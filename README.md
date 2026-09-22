@@ -28,6 +28,10 @@
 - SQL
 - Data Structures & Algorithms
 
+  ### 🎯 Career Goal
+
+Looking for opportunities as a Python Developer / Software Developer Fresher.
+
 
 <!--
 **kanchanatulaji08/kanchanatulaji08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
