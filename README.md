@@ -21,6 +21,13 @@
 * Smart Blind Stick using Arduino UNO
 * Django Projects
 
+### 🌱 Currently Learning
+
+- Python
+- Django
+- SQL
+- Data Structures & Algorithms
+
 
 <!--
 **kanchanatulaji08/kanchanatulaji08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
