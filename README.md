@@ -1,20 +1,21 @@
-## Hi I'm a Python Developer 👋
-🎓 Electronics & Communication Engineering Graduate
-💻 Interested in Python Development and Web Development
+# Hi, I'm a Python Developer 👋
 
+🎓 Electronics & Communication Engineering Graduate
+
+💻 Python Developer Fresher | Learning Python, SQL, Django & Web Development
 
 ### 🛠️ Skills
 
-- Python
-- SQL
-- Django
-- HTML & CSS
-- Git & GitHub
-- Beautiful Soup
-- Selenium
-- Arduino
+* Python
+* SQL
+* Django
+* HTML & CSS
+* Git & GitHub
+* BeautifulSoup
+* Selenium
+* Arduino
 
- ### 📂 Projects
+### 📂 Projects
 
 * Web Scraping using Python & BeautifulSoup
 * Smart Wastage Segregation System using Arduino UNO
@@ -23,14 +24,18 @@
 
 ### 🌱 Currently Learning
 
-- Python
-- Django
-- SQL
-- Data Structures & Algorithms
+* Python
+* Django
+* SQL
+* Data Structures & Algorithms
 
-  ### 🎯 Career Goal
+### 🎯 Career Goal
 
 Looking for opportunities as a Python Developer / Software Developer Fresher.
+
+### 📫 Connect with Me
+
+[LinkedIn](https://www.linkedin.com/in/kanchana-tulaji-7ba64b412)
 
 
 <!--
